@@ -8,4 +8,4 @@ The project consists of three main components:
 
 HTML (index.html): Defines the structure and content of the webpage.
 CSS (styles.css): Adds styling to the HTML elements, making the webpage visually appealing.
-JavaScript (scripts.js): Adds interactivity, enabling the drum sounds to play when specific keys are pressed.
+JavaScript (index.js): Adds interactivity, enabling the drum sounds to play when specific keys are pressed.
