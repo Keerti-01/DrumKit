@@ -1,8 +1,6 @@
 # DrumKit
 Created using Html, Css and JavaScript
 
-![screenshot]("C:\Users\keert\OneDrive\Pictures\Screenshots\Screenshot (22).png")
-
 The Drumkit project aims to create a simple yet interactive web application that allows users to play various drum sounds using their keyboard. This project leverages HTML for structure, CSS for styling, and JavaScript for functionality, providing a hands-on approach to learning and implementing web development skills.
 
 Project Structure
